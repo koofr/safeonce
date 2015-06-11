@@ -1,0 +1,2 @@
+# safeonce
+SafeOnce Go package
