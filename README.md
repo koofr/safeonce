@@ -6,4 +6,12 @@ SafeOnce Go package
 
 ## Install
 
-    go get github.com/koofr/safeonce
+```sh
+go get github.com/koofr/safeonce
+```
+
+## Test
+
+```sh
+go test
+```

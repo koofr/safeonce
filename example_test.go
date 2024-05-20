@@ -2,10 +2,11 @@ package safeonce_test
 
 import (
 	"fmt"
+
 	"github.com/koofr/safeonce"
 )
 
-func ExampleOnce() {
+func ExampleSafeOnce() {
 	var safeOnce safeonce.SafeOnce
 
 	err := safeOnce.Do(func() error {

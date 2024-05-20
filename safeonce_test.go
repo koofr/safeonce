@@ -2,8 +2,9 @@ package safeonce_test
 
 import (
 	"fmt"
-	. "github.com/koofr/safeonce"
 	"testing"
+
+	. "github.com/koofr/safeonce"
 )
 
 type one int
